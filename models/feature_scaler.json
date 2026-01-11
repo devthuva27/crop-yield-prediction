@@ -1,0 +1,118 @@
+{
+    "Year": {
+        "min": 2015.0,
+        "max": 2025.0
+    },
+    "Month": {
+        "min": 1.0,
+        "max": 12.0
+    },
+    "Rainfall_mm": {
+        "min": 36.04,
+        "max": 453.32
+    },
+    "Temperature_C": {
+        "min": 15.16,
+        "max": 38.31
+    },
+    "Fertilizer": {
+        "min": 59.46,
+        "max": 94.69
+    },
+    "N": {
+        "min": 45.0,
+        "max": 89.9
+    },
+    "P": {
+        "min": 18.0,
+        "max": 32.0
+    },
+    "K": {
+        "min": 15.0,
+        "max": 28.0
+    },
+    "rainfall_to_temperature_ratio": {
+        "min": 1.2183903927010167,
+        "max": 20.06727752665891
+    },
+    "total_nutrients": {
+        "min": 78.0,
+        "max": 141.23000000000002
+    },
+    "avg_nutrient": {
+        "min": 26.0,
+        "max": 47.076666666666675
+    },
+    "nutrient_balance": {
+        "min": 19.71,
+        "max": 72.64
+    },
+    "Crop_Rice": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Crop_Rubber": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Crop_Sugarcane": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Crop_Tea": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Badulla": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Batticaloa": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Galle": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Jaffna": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Kalutara": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Kandy": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Kegalle": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Kurunegala": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Matara": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Nuwara Eliya": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Polonnaruwa": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Ratnapura": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Trincomalee": {
+        "min": 0.0,
+        "max": 1.0
+    }
+}
