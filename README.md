@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction System
+# 🌾 AgriSense - Crop Yield Prediction System
 
 An AI-driven precision agriculture platform designed to predict crop yields with high accuracy by integrating machine learning with deep **agronomic domain knowledge**. Built for farmers, agronomists, and researchers to optimize land productivity.
 
@@ -67,7 +67,7 @@ Unlike standard regressions, this system applies agricultural constraints to pre
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/crop-yield-prediction.git
+git clone https://github.com/devthuva27/crop-yield-prediction.git
 cd crop-yield-prediction
 ```
 
