@@ -1,0 +1,63 @@
+# General
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env.local
+frontend/.env.*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Backend
+backend/__pycache__/
+backend/.env
+backend/api.log
+
+# Data
+# Keep raw data if small, ignore processed/large intermediate files
+data/processed/
+data/processed_*.csv
+data/cleaned_crop_data.csv
+
+# Models
+# Ignore large binary model files
+models/*.pkl
+# Keep configuration/scaler files
+!models/*.json
+
+# Logs & Reports
+*.log
+*.txt
+reports/
+output/
+results/
+
+# Specific generated reports in root (if not moved to reports/)
+diagnostics_*.txt
+step*_results.txt
+data_analysis.txt
+distribution_report.txt
+final_report.txt
+scenario_report.txt
+data_exploration.txt
+data_quality_report.txt
+features_created.txt
+feature_names.txt
