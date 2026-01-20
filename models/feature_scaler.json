@@ -9,43 +9,111 @@
     },
     "Rainfall_mm": {
         "min": 36.04,
-        "max": 453.32
+        "max": 999.7790862832699
     },
     "Temperature_C": {
-        "min": 15.16,
-        "max": 38.31
+        "min": 10.133288382484684,
+        "max": 39.98735157015577
     },
     "Fertilizer": {
         "min": 59.46,
         "max": 94.69
     },
     "N": {
-        "min": 45.0,
-        "max": 89.9
+        "min": 0.011019848183657643,
+        "max": 199.99189037886947
     },
     "P": {
-        "min": 18.0,
-        "max": 32.0
+        "min": 0.05476296768779365,
+        "max": 99.99075244455794
     },
     "K": {
-        "min": 15.0,
-        "max": 28.0
+        "min": 0.1292628207572033,
+        "max": 99.94972238392889
     },
-    "rainfall_to_temperature_ratio": {
-        "min": 1.2183903927010167,
-        "max": 20.06727752665891
+    "is_low_rainfall": {
+        "min": 0.0,
+        "max": 1.0
     },
-    "total_nutrients": {
-        "min": 78.0,
-        "max": 141.23000000000002
+    "is_high_rainfall": {
+        "min": 0.0,
+        "max": 1.0
     },
-    "avg_nutrient": {
-        "min": 26.0,
-        "max": 47.076666666666675
+    "is_low_temp": {
+        "min": 0.0,
+        "max": 1.0
     },
-    "nutrient_balance": {
-        "min": 19.71,
-        "max": 72.64
+    "is_high_temp": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "is_extreme_temp": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "rain_temp_interaction": {
+        "min": 1066.0631999999998,
+        "max": 39091.146555120984
+    },
+    "rain_squared": {
+        "min": 1298.8816,
+        "max": 999558.2213694099
+    },
+    "temp_squared": {
+        "min": 102.68353344259907,
+        "max": 1598.988285595239
+    },
+    "total_npk": {
+        "min": 23.525123133658887,
+        "max": 382.13230213275085
+    },
+    "npk_balance": {
+        "min": 3.3534321964773426,
+        "max": 391.05176740023796
+    },
+    "n_ratio": {
+        "min": 0.00011234007439472066,
+        "max": 0.9745212970368607
+    },
+    "is_low_npk": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "good_tea_zone": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "good_rubber_zone": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "good_sugarcane_zone": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "good_cinnamon_zone": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "good_rice_zone": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "drought_stress": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "cold_stress": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "heat_stress": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "Crop_Cinnamon": {
+        "min": 0.0,
+        "max": 1.0
     },
     "Crop_Rice": {
         "min": 0.0,
@@ -60,6 +128,10 @@
         "max": 1.0
     },
     "Crop_Tea": {
+        "min": 0.0,
+        "max": 1.0
+    },
+    "District_Anuradhapura": {
         "min": 0.0,
         "max": 1.0
     },
