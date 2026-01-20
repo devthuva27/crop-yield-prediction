@@ -20,7 +20,7 @@ class Config:
     # but the requirement is specific.
     
     SCALER_PATH = os.path.join(BASE_DIR, 'models', 'feature_scaler.json')
-    FEATURE_NAMES_PATH = os.path.join(BASE_DIR, 'feature_names.txt')
+    FEATURE_NAMES_PATH = os.path.join(BASE_DIR, 'models', 'feature_names.txt')
     
     # Database - Supabase
     SUPABASE_URL = os.getenv('SUPABASE_URL')
